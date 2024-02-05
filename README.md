@@ -1,1 +1,1 @@
-# StyleCop.Tests
+# cf-stylecop-tests

@@ -1,0 +1,3 @@
+<StyleCopViolations>
+  <Violation Section="Root.System" LineNumber="1" Source="C:\Projects\cordis.dev\Stylecop-tests\Tests\csharp10\FileScopedNamespace.cs" RuleNamespace="StyleCop.CSharp.OrderingRules" Rule="UsingDirectivesMustBePlacedWithinNamespace" RuleId="SA1200">All using directives must be placed inside of the namespace.</Violation>
+</StyleCopViolations>
